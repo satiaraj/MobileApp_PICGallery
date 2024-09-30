@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59607401528",
+    "project_id": "loginregispicapp",
+    "storage_bucket": "loginregispicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59607401528:android:2b728b0479683bf1f892cd",
+        "android_client_info": {
+          "package_name": "com.example.registrationpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPS_Jsr3hVVs66CIBagyZrk2Tuw9ORV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
